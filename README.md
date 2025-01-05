@@ -1,10 +1,9 @@
-Here’s a professional and visually appealing structure for a README file with placeholders for images:
-
----
-
 # **Deep Learning Projects**
 
-![Deep Learning Banner](./deepLearningProjects.jpg)  
+<p align="center">
+  <img src="./deepLearningProjects.jpg" alt="Deep Learning Banner" width="800" />
+</p>  
+
 *A collection of deep learning projects demonstrating practical applications of neural networks.*
 
 ---
@@ -25,7 +24,9 @@ This repository contains various deep learning projects built using **TensorFlow
      - ReLU and sigmoid activation functions.
      - Training and evaluating a binary classification model.
    - **Results**:  
-     ![Accuracy Plot](./Diabetes_Prediction/results/accuracy.png)  
+     <p align="center">
+       <img src="./Diabetes_Prediction/results/accuracy.png" alt="Accuracy Plot" width="400" />
+     </p>  
      *Training and validation accuracy over epochs.*
 
 ### 2. **Handwritten Digit Recognition**
@@ -36,7 +37,9 @@ This repository contains various deep learning projects built using **TensorFlow
      - Multi-class classification with softmax activation.
      - Visualizing predictions and performance metrics.
    - **Results**:  
-     ![Sample Digits](https://via.placeholder.com/600x300?text=Sample+Digits)  
+     <p align="center">
+       <img src="https://via.placeholder.com/400x200?text=Sample+Digits" alt="Sample Digits" />
+     </p>  
      *Example of correctly classified digits.*
 
 ---
@@ -101,18 +104,8 @@ Contributions are welcome! Feel free to fork this repository, add new projects, 
 
 ---
 
-## 📄 **License**
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📧 **Contact**
 
 For questions or suggestions, feel free to reach out:  
 **Your Name**  
-[Your Email Address] | [LinkedIn Profile](#) | [Portfolio](#)
-
----
-
-This README includes an overview, instructions, visuals, and structure for a polished and professional look. Replace placeholder links and text with your actual content and images.
+[rihaneaymanee@gmail.com] | [www.linkedin.com/in/aymane-rihane](#)
