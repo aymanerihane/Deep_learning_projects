@@ -107,5 +107,5 @@ Contributions are welcome! Feel free to fork this repository, add new projects, 
 ## 📧 **Contact**
 
 For questions or suggestions, feel free to reach out:  
-**Your Name**  
+**Aymane Rihane**  
 [rihaneaymanee@gmail.com] | [www.linkedin.com/in/aymane-rihane](#)
