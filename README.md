@@ -4,7 +4,7 @@ Here’s a professional and visually appealing structure for a README file with 
 
 # **Deep Learning Projects**
 
-![Deep Learning Banner](https://via.placeholder.com/1200x400?text=Deep+Learning+Projects)  
+![Deep Learning Banner](./deepLearningProjects.jpg)  
 *A collection of deep learning projects demonstrating practical applications of neural networks.*
 
 ---
@@ -25,7 +25,7 @@ This repository contains various deep learning projects built using **TensorFlow
      - ReLU and sigmoid activation functions.
      - Training and evaluating a binary classification model.
    - **Results**:  
-     ![Accuracy Plot](https://via.placeholder.com/600x300?text=Accuracy+Plot)  
+     ![Accuracy Plot](./Diabetes_Prediction/results/accuracy.png)  
      *Training and validation accuracy over epochs.*
 
 ### 2. **Handwritten Digit Recognition**
@@ -71,8 +71,8 @@ Deep_Learning_Projects/
 │   ├── diabetes_prediction.ipynb
 │   ├── dataset.csv
 │   └── results/
-│       ├── accuracy_plot.png
-│       └── loss_plot.png
+│       ├── accuracy.png
+│       └── loss.png
 │
 ├── Handwritten_Digit_Recognition/
 │   ├── digit_recognition.ipynb
