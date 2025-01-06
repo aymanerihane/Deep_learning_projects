@@ -38,7 +38,7 @@ This repository contains various deep learning projects built using **TensorFlow
      - Visualizing predictions and performance metrics.
    - **Results**:  
      <p align="center">
-       <img src="./Handwritten_Digit_Recognition_MNIST/results/confusionMatrix.png" />
+       <img src="./Handwritten_Digit_Recognition_MNIST/results/confusionMatrix.png" width="400" />
      </p>  
      *Example of correctly classified digits.*
 
