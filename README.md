@@ -30,15 +30,15 @@ This repository contains various deep learning projects built using **TensorFlow
      *Training and validation accuracy over epochs.*
 
 ### 2. **Handwritten Digit Recognition**
-   - **Goal**: Classify handwritten digits from the `digits` dataset.
-   - **Dataset**: `sklearn.datasets` digits dataset.
+   - **Goal**: Classify handwritten digits from the `MNIST` dataset.
+   - **Dataset**: `tensorflow.keras.datasets.mnist` dataset.
    - **Highlights**:
-     - Image normalization and flattening.
+     - Image normalization and reshaping.
      - Multi-class classification with softmax activation.
      - Visualizing predictions and performance metrics.
    - **Results**:  
      <p align="center">
-       <img src="https://via.placeholder.com/400x200?text=Sample+Digits" alt="Sample Digits" />
+       <img src="./Handwritten_Digit_Recognition_MNIST/results/confusionMatrix.png" />
      </p>  
      *Example of correctly classified digits.*
 
